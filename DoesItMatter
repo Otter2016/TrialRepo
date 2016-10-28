@@ -1,0 +1,13 @@
+/* Here is a little file that I'm creating in order to understand how all this fits together.
+ * It mostly will be this comment and a bit of C code (hello world sort of thing) that will permit
+ * me to look at how it all fits together.
+ */
+ 
+ #include <stdio.h>
+ 
+ main()
+ {
+     //Obligatory hello world term goes here...
+     printf("Hello World of Git!\n");
+ }
+ 
